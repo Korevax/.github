@@ -6,6 +6,8 @@ O **Korevax** é um ecossistema open-source voltado à descoberta, organização
 
 O projeto busca criar uma estrutura fundamentada em **dados organizados, relações entre entidades, comunidade e interoperabilidade**, permitindo que diferentes tipos de conteúdo sejam catalogados e relacionados dentro de um mesmo ecossistema.
 
+![Homepage](./homepage.png)   
+
 ---
 
 ## 1. Visão
